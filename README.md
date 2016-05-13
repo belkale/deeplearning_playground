@@ -15,7 +15,7 @@ We are seeing an accuracy of 98.24% in predicting circle data.
 
     $ python circle.py > circle_data.csv
     $ python visualize.py circle_data.csv
-    $ python train circle_dl.py circle_data.csv
+    $ python circle_dl.py train circle_dl.py circle_data.csv
     $ python circle_dl.py predict circle_data.csv circle_predicted.csv
     $ python visualize.py circle_predicted.csv
 
