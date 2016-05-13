@@ -21,7 +21,7 @@ We are seeing an accuracy of 98.24% in predicting circle data.
 
 Complicated
 ------------
-We are seeing an accuracy of 95.64% in predicting complidated data.
+We are seeing an accuracy of 95.64% in predicting complicated data.
 
     $ python complicated.py > complicated_data.csv
     $ python visualize.py complicated_data.csv
@@ -32,7 +32,7 @@ We are seeing an accuracy of 95.64% in predicting complidated data.
 
 Complicated1
 ------------
-We are seeing an accuracy of 98.08% in predicting complidated data.
+We are seeing an accuracy of 98.08% in predicting complicated data.
 
     $ python complicated1.py > complicated1_data.csv
     $ python visualize.py complicated1_data.csv
